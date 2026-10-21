@@ -177,12 +177,4 @@ https://github.com/Manikandan4411
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandan4411&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan4411&layout=compact&hide_border=true)
-
----
-
 ⭐ Feel free to explore my repositories and connect with me.
